@@ -1,0 +1,26 @@
+{
+  "birthday_boy": "Liam",
+  "age": 10,
+  "clues": [
+    {
+      "clue": "Ok! Let's get started.  Your first give is located in a place FULL of things that are one of your favorite things to do!",
+      "code": "LUKE"
+    },
+    {
+      "clue": "Great work young padiwan!  Your next destination on this hunt is a place sometimes dark and scary.  You need to look within a container that has shooting devices.",
+      "code": "REY"
+    },
+    {
+      "clue": "Ok that was a bit of a trick! But we need to keep you on your toes. This next one will be exciting.  You only need to look where batteries go from 0 to 100 overnight.",
+      "code": "HANS"
+    },
+    {
+      "clue": "Getting close to the end now your apprentice.  The next treasure can be found where clicks are heard, and little black dots are read.",
+      "code": "OBIWAN"
+    },
+    {
+      "clue": "Phew, ok last one.  This is a place that you should probably never go without a certain person's permission (hint: he wears glasses and likes to watch American Pickers).  But you can go there now, and look in a place where he keeps all his troves of widsdom.",
+      "code": "NONE"
+    }
+  ]
+}
